@@ -1,0 +1,1 @@
+python amg.py --model-type default --input b:\code\vidclips\training_data\raw\gray\ --output b:\code\vidclips\images\masks\ --checkpoint b:\code\segment-anything\checkpoints\sam_vit_h_4b8939.pth
